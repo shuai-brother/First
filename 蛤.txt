@@ -1,2 +1,12 @@
 苟利国家生死以，岂因祸福避趋之
 天若有情天亦老，我为长者续一秒
+#include<cstdio>
+#include<algorithm>
+
+using namespace std;
+
+int main()
+{
+  printf("sb wza");
+  return sbwza;
+}
